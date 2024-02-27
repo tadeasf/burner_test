@@ -1,0 +1,5 @@
+*.mp3
+*.vscode/
+audio/
+mp3_merge.py
+.DS_Store
